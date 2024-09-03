@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-i am a  hardware engineer<br>and a programmer<br>block chain lover<br>
+#i am a  hardware engineer<br>#and a programmer<br>#block chain lover<br>
 
 
 # 💻 Tech Stack:
